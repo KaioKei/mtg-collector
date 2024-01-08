@@ -1,5 +1,8 @@
-### Example user template template
-### Example user template
+# Project
+LTC.json
+LTR.json
+example.json
+bin/
 
 # IntelliJ project files
 .idea

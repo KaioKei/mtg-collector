@@ -1,3 +1,3 @@
-module mtg-collector
+module mtgcollector
 
 go 1.19

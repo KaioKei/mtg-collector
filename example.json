@@ -1,0 +1,168 @@
+{
+  "artist": "Tomas Duchek",
+  "artistIds": [
+    "ceb3ce65-efa6-4bcc-b2a3-33e83a047528"
+  ],
+  "availability": [
+    "arena",
+    "mtgo",
+    "paper"
+  ],
+  "boosterTypes": [
+    "default"
+  ],
+  "borderColor": "black",
+  "colorIdentity": [
+    "B"
+  ],
+  "colors": [
+    "B"
+  ],
+  "convertedManaCost": 4.0,
+  "edhrecRank": 19414,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "flavorText": "A shuddering howl broke from him, as if he were a captain summoning his pack to the assault.",
+  "foreignData": [
+    {
+      "flavorText": "Ein schauerliches Heulen brach aus ihm heraus, als wäre er ein Rudelführer, der seine Artgenossen zum Angriff rief.",
+      "language": "German",
+      "multiverseId": 617200,
+      "name": "Knurrender Warg",
+      "text": "Bedrohlich (Diese Kreatur kann nicht geblockt werden, außer von zwei oder mehr Kreaturen.)\nSolange du einen Goblin oder Ork kontrollierst, erhält der Knurrende Warg +1/+0.",
+      "type": "Kreatur — Wolf"
+    },
+    {
+      "flavorText": "De pronto dejó ir un aullido estremecedor, cual capitán incitando a su manada al asalto.",
+      "language": "Spanish",
+      "multiverseId": 617461,
+      "name": "Huargo gruñidor",
+      "text": "Amenaza. (Esta criatura no puede ser bloqueada excepto por dos o más criaturas.)\nMientras controles un Trasgo u Orco, el Huargo gruñidor obtiene +1/+0.",
+      "type": "Criatura — Lobo"
+    },
+    {
+      "flavorText": "Il laissa échapper un hurlement bouleversant, comme un capitaine appelant sa meute à l'assaut.",
+      "language": "French",
+      "multiverseId": 617722,
+      "name": "Warg menaçant",
+      "text": "Menace (Cette créature ne peut pas être bloquée excepté par deux créatures ou plus.)\nTant que vous contrôlez un gobelin ou un orque, le Warg menaçant gagne +1/+0.",
+      "type": "Créature : loup"
+    },
+    {
+      "flavorText": "Emise un possente ululato, come un capitano che richiama il suo branco all'assalto.",
+      "language": "Italian",
+      "multiverseId": 617983,
+      "name": "Warg Ringhiante",
+      "text": "Minacciare (Questa creatura non può essere bloccata tranne che da due o più creature.)\nFintanto che controlli un Goblin o un Orco, il Warg Ringhiante prende +1/+0.",
+      "type": "Creatura — Lupo"
+    },
+    {
+      "flavorText": "それは、群れを戦いに誘うかのように、身の毛もよだつ雄叫びをあげた。",
+      "language": "Japanese",
+      "multiverseId": 618244,
+      "name": "うなる魔狼",
+      "text": "威迫（このクリーチャーは２体以上のクリーチャーにしかブロックされない。）\nあなたがゴブリンやオークをコントロールしているかぎり、うなる魔狼は＋１/＋０の修整を受ける。",
+      "type": "クリーチャー — 狼"
+    },
+    {
+      "flavorText": "Um uivo tremido soou dele, como se fosse um capitão convocando sua alcateia para o ataque.",
+      "language": "Portuguese (Brazil)",
+      "multiverseId": 618505,
+      "name": "Warg Rosnador",
+      "text": "Ameaçar (Esta criatura só pode ser bloqueada por duas ou mais criaturas.)\nEnquanto você controla um Goblin ou Orc, Warg Rosnador recebe +1/+0.",
+      "type": "Criatura — Lobo"
+    },
+    {
+      "flavorText": "他突然发出一声骇人吼叫，仿佛是领队呼唤狼群准备进攻。",
+      "language": "Chinese Simplified",
+      "multiverseId": 618766,
+      "name": "咆哮座狼",
+      "text": "威慑（此生物只能被两个或更多生物阻挡。）\n只要你操控鬼怪或半兽人，咆哮座狼便得+1/+0。",
+      "type": "生物 ～狼"
+    }
+  ],
+  "frameVersion": "2015",
+  "hasFoil": true,
+  "hasNonFoil": true,
+  "identifiers": {
+    "cardKingdomFoilId": "278825",
+    "cardKingdomId": "278018",
+    "cardsphereId": "103912",
+    "mcmId": "715921",
+    "mcmMetaId": "420052",
+    "mtgArenaId": "84801",
+    "mtgjsonV4Id": "4749d1e5-ab45-5557-8364-790a566e0ae2",
+    "mtgoId": "112128",
+    "multiverseId": "616939",
+    "scryfallId": "a1ad561c-ccb4-480a-88a4-0555d0ef245e",
+    "scryfallIllustrationId": "f86e621c-5118-4bdb-b9fb-a80e412c596c",
+    "scryfallOracleId": "978a7a96-ca79-4f73-a4c6-99d662605969",
+    "tcgplayerProductId": "498387"
+  },
+  "keywords": [
+    "Menace"
+  ],
+  "language": "English",
+  "layout": "normal",
+  "legalities": {
+    "alchemy": "Legal",
+    "commander": "Legal",
+    "duel": "Legal",
+    "gladiator": "Legal",
+    "historic": "Legal",
+    "historicbrawl": "Legal",
+    "legacy": "Legal",
+    "modern": "Legal",
+    "oathbreaker": "Legal",
+    "pauper": "Legal",
+    "paupercommander": "Legal",
+    "vintage": "Legal"
+  },
+  "manaCost": "{3}{B}",
+  "manaValue": 4.0,
+  "name": "Snarling Warg",
+  "number": "109",
+  "originalText": "Menace (This creature can't be blocked except by two or more creatures.)\nAs long as you control a Goblin or Orc, Snarling Warg gets +1/+0.",
+  "originalType": "Creature — Wolf",
+  "power": "3",
+  "printings": [
+    "LTR"
+  ],
+  "purchaseUrls": {
+    "cardKingdom": "https://mtgjson.com/links/973d58395faf715a",
+    "cardKingdomFoil": "https://mtgjson.com/links/1a06717755a3fbbc",
+    "cardmarket": "https://mtgjson.com/links/28bd791d21d0ddcf",
+    "tcgplayer": "https://mtgjson.com/links/45dbddd92ab7da96"
+  },
+  "rarity": "common",
+  "securityStamp": "triangle",
+  "setCode": "LTR",
+  "sourceProducts": {
+    "foil": [
+      "266de9f8-de20-5d45-a4be-842de7a5a82d",
+      "331d181e-ccef-5814-bf27-347a9c57a92e",
+      "ef7a3983-cd6e-5ff3-b85c-bc67ae1edf5c"
+    ],
+    "nonfoil": [
+      "0865e393-debf-569e-b02a-f5901bfa4f3c",
+      "331d181e-ccef-5814-bf27-347a9c57a92e",
+      "ef7a3983-cd6e-5ff3-b85c-bc67ae1edf5c"
+    ]
+  },
+  "subtypes": [
+    "Wolf"
+  ],
+  "supertypes": [],
+  "text": "Menace (This creature can't be blocked except by two or more creatures.)\nAs long as you control a Goblin or Orc, Snarling Warg gets +1/+0.",
+  "toughness": "4",
+  "type": "Creature — Wolf",
+  "types": [
+    "Creature"
+  ],
+  "uuid": "de2448a1-04fe-5d6a-815e-5b59dcfefaf7",
+  "variations": [
+    "a9b1463e-fc7a-53f0-a706-6e4db77b376f"
+  ]
+}
